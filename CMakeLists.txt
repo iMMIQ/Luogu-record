@@ -11,3 +11,5 @@ add_executable(P1035 "src/Part 1 入门阶段/Part 1.1 从零开始/P1035 [NOIP2
 add_executable(P1980 "src/Part 1 入门阶段/Part 1.1 从零开始/P1980 [NOIP2013 普及组] 计数问题.cpp")
 add_executable(P1014 "src/Part 1 入门阶段/Part 1.1 从零开始/P1014 [NOIP1999 普及组] Cantor 表.cpp")
 add_executable(P1307 "src/Part 1 入门阶段/Part 1.1 从零开始/P1307 [NOIP2011 普及组] 数字反转.cpp")
+
+add_executable(P1046 "src/Part 1 入门阶段/Part 1.2 数组基础/P1046 [NOIP2005 普及组] 陶陶摘苹果.cpp")
