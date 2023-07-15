@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.0)
+project(Luogu)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(P1421 "src/Part 1 入门阶段/Part 1.1 从零开始/P1421 小玉买文具.cpp")
+add_executable(P1909 "src/Part 1 入门阶段/Part 1.1 从零开始/P1909 [NOIP2016 普及组] 买铅笔.cpp")
+add_executable(P1089 "src/Part 1 入门阶段/Part 1.1 从零开始/P1089 [NOIP2004 提高组] 津津的储蓄计划.cpp")
+add_executable(P1085 "src/Part 1 入门阶段/Part 1.1 从零开始/P1085 [NOIP2004 普及组] 不高兴的津津.cpp")
+add_executable(P1035 "src/Part 1 入门阶段/Part 1.1 从零开始/P1035 [NOIP2002 普及组] 级数求和.cpp")
+add_executable(P1980 "src/Part 1 入门阶段/Part 1.1 从零开始/P1980 [NOIP2013 普及组] 计数问题.cpp")
+add_executable(P1014 "src/Part 1 入门阶段/Part 1.1 从零开始/P1014 [NOIP1999 普及组] Cantor 表.cpp")
+add_executable(P1307 "src/Part 1 入门阶段/Part 1.1 从零开始/P1307 [NOIP2011 普及组] 数字反转.cpp")
