@@ -19,3 +19,4 @@ add_executable(P2141 "src/Part 1 入门阶段/Part 1.2 数组基础/P2141 [NOIP2
 add_executable(P5594 "src/Part 1 入门阶段/Part 1.2 数组基础/P5594 【XR-4】模拟赛.cpp")
 
 add_executable(P5015 "src/Part 1 入门阶段/Part 1.3 字符串基础/P5015 [NOIP2018 普及组] 标题统计.cpp")
+add_executable(P1055 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1055 [NOIP2008 普及组] ISBN 号码.cpp")
