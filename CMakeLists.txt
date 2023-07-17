@@ -22,3 +22,4 @@ add_executable(P5015 "src/Part 1 入门阶段/Part 1.3 字符串基础/P5015 [NO
 add_executable(P1055 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1055 [NOIP2008 普及组] ISBN 号码.cpp")
 add_executable(P1308 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1308 [NOIP2011 普及组] 统计单词数.cpp")
 add_executable(P2010 "src/Part 1 入门阶段/Part 1.3 字符串基础/P2010 [NOIP2016 普及组] 回文日期.cpp")
+add_executable(P1012 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1012 [NOIP1998 提高组] 拼数.cpp")
