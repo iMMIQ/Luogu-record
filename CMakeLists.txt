@@ -24,3 +24,5 @@ add_executable(P1308 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1308 [NO
 add_executable(P2010 "src/Part 1 入门阶段/Part 1.3 字符串基础/P2010 [NOIP2016 普及组] 回文日期.cpp")
 add_executable(P1012 "src/Part 1 入门阶段/Part 1.3 字符串基础/P1012 [NOIP1998 提高组] 拼数.cpp")
 add_executable(P5587 "src/Part 1 入门阶段/Part 1.3 字符串基础/P5587 打字练习.cpp")
+
+add_executable(P3131 "src/Part 2 基础算法/Part 2.8 前缀和 & 差分/P3131 [USACO16JAN] Subsequences Summing to Sevens S.cpp")
