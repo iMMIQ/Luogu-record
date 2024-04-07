@@ -1,3 +1,5 @@
 # 项目排除路径
 /cmake-build-debug/
 .cache
+.vscode
+build
